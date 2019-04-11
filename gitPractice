@@ -1,0 +1,7 @@
+public class gitPractice {
+
+  public static void main(String[] args) {
+    System.out.println("Welcome friends!  Feel free to edit this as you see fit.");
+    
+    }
+}
