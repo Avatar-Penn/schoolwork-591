@@ -1,5 +1,6 @@
 public class gitPractice {
 
+//melanie was here
   public static void main(String[] args) {
 	  
 	System.out.prinln("Velcome " + args[0] + " and " + args[1] 
